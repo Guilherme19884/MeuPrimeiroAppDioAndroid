@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="true">MeuPrimeiroAppDio</string>
+    <string name="hello_world" translatable="true">Hello World!</string>
+    <string name="ola_mundo" translatable="true">Olá Mundo!</string>
+    <string name="hola_mundo" translatable="true">Hola Mundo!</string>
+    <string name="salut_tout_le_monde" translatable="true">Salut tout le monde!</string>
+    <string name="title" translatable="true">A hora é agora!</string>
+</resources>
